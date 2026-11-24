@@ -9,12 +9,14 @@
 ---
 
 ### 🚀 Ce que j'apprends en ce moment
-- 🐧 Linux / Kali Linux - Administration Système
+- 🐧 Linux | RedHat | Kali Linux | Administration Système
 - 🛠️ Git & GitHub
-- 🌐 Réseaux Cisco
-- 🛡️ NOC / SOC - Surveillance et Sécurité
+- 🌐 Réseaux Cisco | CCNA&CCNP | Administration Reseau
+- 🛡️ NOC / SOC | Surveillance et Sécurité
 
 ### 💻 Mes projets
+
+
 Je travaille sur 11 projets de lab, dont `lab-web`.
 Objectif : devenir Administrateur Systèmes & Réseaux / SOC Analyst.
 
