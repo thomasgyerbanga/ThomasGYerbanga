@@ -11,7 +11,7 @@
 ### 🚀 Ce que j'apprends en ce moment
 - 🐧 Linux | RedHat | Kali Linux | Administration Système
 - 🛠️ Git & GitHub
-- 🌐 Réseaux Cisco | CCNA&CCNP | Administration Reseau
+- 🌐 Réseaux Cisco | CCNA & CCNP | Administration Reseau
 - 🛡️ NOC / SOC | Surveillance et Sécurité
 
 ### 💻 Mes projets
