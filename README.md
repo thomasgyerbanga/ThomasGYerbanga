@@ -21,5 +21,5 @@ Je travaille sur 11 projets de lab, dont `lab-web`.
 Objectif : devenir Administrateur Systèmes & Réseaux / SOC Analyst.
 
 ### 📫 Me contacter
-- GitHub : github.com/ThomasGYerbanga
+- GitHub : github.com/thomasgyerbanga
 - Email : thomasgyerbanga@gmail.com
