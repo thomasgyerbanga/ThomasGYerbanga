@@ -3,7 +3,7 @@
 📍 Ouagadougou, Burkina Faso
 📧 thomasgyerbanga@gmail.com
 
-Stagiaire en Administration Systèmes & Réseaux à Ouagadougou | Linux | RedHat | Cisco | NOC / SOC
+Autodidate en Administration Systèmes & Réseaux à Ouagadougou | Linux | RedHat | Cisco | NOC / SOC
 
 ---
 
