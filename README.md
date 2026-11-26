@@ -1,23 +1,22 @@
 # Salut, moi c'est Thomas 👋
-
-### Thomas G Yerbanga
+### Thomas Guetemanegda Yerbanga
 📍 Ouagadougou, Burkina Faso
 📧 thomasgyerbanga@gmail.com
 
-Étudiant en informatique à Ouagadougou | Linux | RedHat | Cisco | NOC / SOC
+Stagiaire en Administration Systèmes & Réseaux à Ouagadougou | Linux | RedHat | Cisco | NOC / SOC
 
 ---
 
 ### 🚀 Ce que j'apprends en ce moment
 - 🐧 Linux | RedHat | Kali Linux | Administration Système
 - 🛠️ Git & GitHub
-- 🌐 Réseaux Cisco | CCNA & CCNP | Administration Reseau
+- 🌐 Réseaux Cisco | CCNA & CCNP | Administration Réseau
 - 🛡️ NOC / SOC | Surveillance et Sécurité
 
 ### 💻 Mes projets
+🎯 Projet : Déploiement d'un serveur jusqu'à la mise en production + Mise en marche du réseau d'entreprise avec Cisco
+🛠️ Linux | Rocky Linux | RedHat | Cisco | NOC / SOC
 
-
-Je travaille sur 11 projets de lab, dont `lab-web`.
 Objectif : devenir Administrateur Systèmes & Réseaux / SOC Analyst.
 
 ### 📫 Me contacter
