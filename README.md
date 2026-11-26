@@ -15,9 +15,10 @@ Stagiaire en Administration Systèmes & Réseaux à Ouagadougou | Linux | RedHat
 
 ### 💻 Mes projets
 🎯 Projet : Déploiement d'un serveur jusqu'à la mise en production + Mise en marche du réseau d'entreprise avec Cisco
-🛠️ Linux | Rocky Linux | RedHat | Cisco | NOC / SOC
 
-Objectif : devenir Administrateur Systèmes & Réseaux / SOC Analyst.
+                🛠️ Linux | Rocky Linux | RedHat | Cisco | NOC / SOC
+
+                   Objectif : devenir Administrateur Systèmes & Réseaux / SOC Analyst.
 
 ### 📫 Me contacter
 - GitHub : github.com/thomasgyerbanga
